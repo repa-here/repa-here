@@ -1,3 +1,17 @@
+<h1 align="center">Yoho! I'm Repa</h1>
+
+<p align="center">
+  /\_/\<br />
+  ( o.o )<br />
+  &gt; ❤️ &lt;
+</p>
+
+<p align="center">
+  ᴀᴘᴘʀᴇɴᴛɪᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴇxᴘʟᴏʀɪɴɢ ᴄ++, ɢᴀᴍᴇ ᴇɴɢɪɴᴇꜱ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ ʜᴀʀᴅᴡᴀʀᴇ. ɪ ʟᴏᴠᴇ ᴛɪɴᴋᴇʀɪɴɢ ᴡɪᴛʜ ꜱʏꜱᴛᴇᴍꜱ, ᴅᴇʙᴜɢɢɪɴɢ ᴡᴇɪʀᴅ ʙᴜɢꜱ, ᴀɴᴅ ᴛᴀᴋɪɴɢ ᴏɴ ᴄʜᴀʟʟᴇɴɢɪɴɢ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛᴏ ꜱᴇᴇ ʜᴏᴡ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴡᴏʀᴋꜱ ᴜɴᴅᴇʀ ᴛʜᴇ ʜᴏᴏᴅ.
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=repa-here&theme=tokyonight&hide_border=true" />
 </p>
